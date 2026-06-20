@@ -17,8 +17,6 @@ a Hong Kong-based developer, designer, and classical musician. I bridge the gap 
 | **Vocal Profile** | **Tenor** (Range: C#3 - Bb4) | Vocal & (HKDSE) Orchestral Composition |
 | **Languages** | Fluent in English, Cantonese, Putonghua | 
 
-> 💡 **Core Philosophy:** "Human-in-the-Loop." I build intelligent tools that amplify human expression and safeguard security—never tools meant to replace human design or final human oversight.
-
 ---
 
 ## 🎵 Classical Music Portfolio & Credentials
@@ -70,4 +68,4 @@ a Hong Kong-based developer, designer, and classical musician. I bridge the gap 
 * **GitHub:** [github.com/ChuTM](https://github.com/ChuTM)
 * **Interests:** Full-stack architecture, database security auditing, algorithmic music generation, and operatic vocal production.
 
-# Always Open to Opportunities.
+#### Always Open to Opportunities.
